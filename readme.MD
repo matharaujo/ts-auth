@@ -7,7 +7,7 @@
 
 #### To Start
 1) Configure your database in [ormconfig.json](ormconfig.json);
-2) Run migrations ->  _npm typeorm_;
+2) Run migrations ->  _npm run typeorm_;
 3) Start the project ->  _npm start_;
 
 #### Routes
